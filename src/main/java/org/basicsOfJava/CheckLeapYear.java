@@ -1,5 +1,4 @@
-package org.learning;
-import java.sql.SQLOutput;
+package org.basicsOfJava;
 import java.util.*;
 
 public class CheckLeapYear {
